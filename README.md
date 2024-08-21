@@ -1,4 +1,4 @@
-# Project README: Medical Data Processing and Analysis
+# Medical Data Processing and Analysis: T2DM Complications Trajectories
 
 ## Overview
 
