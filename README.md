@@ -28,12 +28,12 @@ Before running the scripts, ensure you have the following installed on your syst
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/medical-data-analysis.git
+   git clone https://github.com/noe2019/T2DM_Complications_Trajectories.git
    ```
    
 2. **Navigate to the project directory**:
    ```bash
-   cd medical-data-analysis
+   cd T2DM_Complications_Trajectories
    ```
    
 3. **Install required Python packages**:
